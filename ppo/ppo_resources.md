@@ -6,6 +6,8 @@
 * Paper:["Benchmarking Deep Reinforcement Learning for Continuous Control"](https://arxiv.org/pdf/1604.06778.pdf) useful for standards adopted
 * Multiprocessing with SB3 - [Tutorial](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/multiprocessing_rl.ipynb#scrollTo=BIedd7Pz9sOs)
 * SB3 - [SubprocVecEnv](https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#subprocvecenv)
+* Research Coding [best practices](https://goodresearch.dev/#the-good-research-code-handbook)
+* Seeds and reproducibility [pytorch](https://pytorch.org/docs/stable/notes/randomness.html)
 
 
 
