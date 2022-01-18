@@ -8,6 +8,8 @@
 * SB3 - [SubprocVecEnv](https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#subprocvecenv)
 * Research Coding [best practices](https://goodresearch.dev/#the-good-research-code-handbook)
 * Seeds and reproducibility [pytorch](https://pytorch.org/docs/stable/notes/randomness.html)
+* Cleanrl's [blog](https://costa.sh/blog-the-32-implementation-details-of-ppo.html) on improving PPO
+* GAE [blog](https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/) from Seita's place
 
 
 
